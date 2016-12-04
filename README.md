@@ -17,3 +17,7 @@ AGJJJ
 AGCJG
 IIIFB
 iifig
+iffig
+ibbaj
+ibabj
+iabag
